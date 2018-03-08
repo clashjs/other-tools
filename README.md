@@ -1,12 +1,17 @@
-# Favorite Text Editor
+## Package Managers
 
-1. [Sublime Text](https://www.sublimetext.com/)
+1. [yarn](https://yarnpkg.com/)
+2. [npm](https://www.npmjs.com/)
+3. [bower](https://bower.io/)
+
+## Utility Libraries
+
+1. [lodash](https://lodash.com/)
+2. [jQuery](https://jquery.com/)
+3. [Ramda](http://ramdajs.com/)
+
+# Text Editors
+
+1. [VS Code](https://www.visualstudio.com/)
 2. [Atom](https://atom.io/)
-3. [Webstorm](https://www.jetbrains.com/webstorm/)
-4. [Vim](http://www.vim.org/)
-5. [VS Code](https://code.visualstudio.com/)
-6. [Emacs](https://www.gnu.org/software/emacs/)
-7. [Notepad++](https://notepad-plus-plus.org/)
-8. [Brackets](http://brackets.io/)
-9. [PHPStorm](https://www.jetbrains.com/phpstorm/)
-10. [Textmate](https://macromates.com/)
+3. [Sublime Text](https://www.sublimetext.com/)
