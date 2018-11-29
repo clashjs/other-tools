@@ -24,6 +24,6 @@
 
 ## Text Editors
 
-1. VS Code
+1. **VS Code**
 2. Sublime Text
 3. Vim
